@@ -1,0 +1,21 @@
+{
+    "name": "sincco/mysqlbkp",
+    "description": "Create and restore MySQL backups",
+    "license": "MIT",
+    "keywords": ["mysqlbkp","mysql","backup","restore","sincco"],
+    "version": "1.0",
+    "require": {
+        "php": "^5.3.3 || >=7.0"
+    },
+    "authors": [
+        {
+            "name": "Ivan Miranda",
+            "email": "ivan.miranda@sincco.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sincco\\Tools\\": "src"
+        }
+    }
+}
