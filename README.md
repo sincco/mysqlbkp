@@ -1,8 +1,8 @@
 #### MySQLBkp
 
-[![Latest version][ico-version]][link-packagist]
-
 Crea y restaura backups desde MySQL, para facilitar las tareaas de respaldo de tu sistema
+
+## Basado en https://github.com/daniloaz/myphp-backup
 
 ### Instalación
 ```
